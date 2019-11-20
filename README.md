@@ -1,5 +1,11 @@
-Python interoperates with Wasm by WASI
+Python interoperate with Wasm by WASI
 ======================================
+
+Please install last wasmtime package from https://github.com/bytecodealliance/wasmtime/releases
+
+```
+./venv/bin/pip install wasmtime-0.0.1-cp37-cp37m-macosx_10_13_x86_64.whl
+```
 
 # References
 
